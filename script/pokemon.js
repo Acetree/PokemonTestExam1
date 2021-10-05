@@ -33,7 +33,7 @@ $(function () {
     refreshScore();
 
     $.ajax({
-        url: "../pokemonTest/data/pokemon_data.csv",
+        url: "data/pokemon_data.csv",
         async: false,
         success: function (csvd) {
             pokemonData = $.csv.toObjects(csvd);
