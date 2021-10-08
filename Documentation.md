@@ -23,10 +23,13 @@ I used jQuery for dom manipulation and microanimation and [jquery.csv.js](https:
 ## 3. Major challenges and solutions (i.e. the most difficult aspects of the project for you and how you attempted to address them)
 The major challenge is how to deal with null data. In this data set, there are some Pokemon's height and weight data that are empty. I didn't notice it when I was developing it until I invited my friend to test the game. I added a function to hide the height and weight value if these data are empty.
 
+
 ## 4.Lessons learned as well as potential next steps if work on the project continues
 I learned that when you are dealing with a data set, it is very important to observe the characteristics of the data, such as the maximum and minimum; in some cases, will it be empty...Otherwise, you might encounter some errors.
 
+
 ## 5.Any relevant references/resources
+- [a pokemon dataset](https://www.kaggle.com/rounakbanik/pokemon).
 - [The Official Pokémon Website ](https://www.pokemon.com/us/)
 - [jquery.csv.js](https://github.com/evanplaice/jquery-csv)
 - [Gluten](https://fonts.google.com/specimen/Gluten#glyphs)
