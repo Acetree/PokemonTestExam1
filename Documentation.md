@@ -26,6 +26,7 @@ The major challenge is how to deal with null data. In this data set, there are s
 
 ## 4.Lessons learned as well as potential next steps if work on the project continues
 I learned that when you are dealing with a data set, it is very important to observe the characteristics of the data, such as the maximum and minimum; in some cases, will it be empty...Otherwise, you might encounter some errors.
+For next step, I would like add more small interactions and sound effects to make it more vivid. In addition to the game mechanics, I want to add online battles and rankings to encourage people to participate in the game.
 
 
 ## 5.Any relevant references/resources
